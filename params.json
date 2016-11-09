@@ -1,6 +1,6 @@
 {
   "name": "Testsite",
   "tagline": "",
-  "body": "##TEST\r\n!(https://github.com/freedoom/freedoom.github.io/tree/master/img/logo.png)\r\nThis is a website!",
+  "body": "##TEST\r\n![FREEDOOM](https://github.com/freedoom/freedoom.github.io/tree/master/img/logo.png)\r\nThis is a website!",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
